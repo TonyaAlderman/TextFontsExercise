@@ -5,7 +5,7 @@ span {
     font-weight: bold;
 }
 h1 {
-    font-size: 50px; letter-spacing: 10px; text-align: center; text-transform: capitalize; text-decoration: underline;
+    font-size: 50px; letter-spacing: 10px; text-align: center; text-transform: uppercase; text-decoration: underline;
 }
 #series-movies {
     font-size: 20px;
